@@ -1,20 +1,3 @@
-Here’s a preview of the initial files that will be pushed:
+# Point of Sale System
 
-Files Included
-backend/php/
-index.php
-/controllers/ (Sales, Procurement, Inventory, Promotion, Tax, Closing, User)
-/models/ (Product, ProductPrice, User, PermissionGroup, Sale, Procurement, Inventory, Promotion, Tax, DailyClosing)
-backend/python/vibe_code/
-app.py
-requirements.txt
-(stub for AI code: model.py)
-frontend/html/
-index.html (landing page)
-login.html / signup.html
-sales.html / procurement.html
-inventory.html / promotion.html / daily_closing.html
-report.html
-styles.css (optional simple responsive styles)
-docs/requirements.md (full feature description)
-README.md (project overview)
+A comprehensive point-of-sale system that includes features such as sales, procurement, inventory management, promotion handling, tax management, product management, daily closing reports, and standard reporting. The system is designed with a PHP and Python backend and an HTML frontend.
